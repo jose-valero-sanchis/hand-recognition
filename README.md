@@ -8,8 +8,8 @@ The project consists of a hand position classification system in images. The cla
 
 Here, sample images are provided that showcase different hand positions (LF, LB, RF, RB) and have been utilized to train the model:
 
-<p align="center">
-  <table>
+<div align="center">
+  <table align="center">
     <tr>
       <td align="center"><img src="examples/0147.jpeg" alt="LB"><br><em>LB</em></td>
       <td align="center"><img src="examples/0148.jpeg" alt="LF"><br><em>LF</em></td>
@@ -19,4 +19,4 @@ Here, sample images are provided that showcase different hand positions (LF, LB,
       <td align="center"><img src="examples/0150.jpeg" alt="RF"><br><em>RF</em></td>
     </tr>
   </table>
-</p>
+</div>
