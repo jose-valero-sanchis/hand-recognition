@@ -2,11 +2,11 @@
 
 ## Project Description
 
-The project consists of a hand position classification system in images. The classified hand positions are: LF (Left Front), LB (Left Back), RF (Right Front), and RB (Right Back). The system uses a pre-trained convolutional neural network (VGG16) to extract features from the images and a dense neural network for classification.
+The project consists of a hand position classification system in images. The classified hand positions are: LB (Left Back), LF (Left Front), RB (Right Back) and RF (Right Front). The system uses a pre-trained convolutional neural network (VGG16) to extract features from the images and a dense neural network for classification.
 
 ## Image Examples
 
-Here, sample images are provided that showcase different hand positions (LF, LB, RF, RB) and have been utilized to train the model:
+Here, sample images are provided that showcase different hand positions (LB, LF, RB, RF) and have been utilized to train the model:
 
 <div align="center">
   <table align="center">
@@ -20,3 +20,24 @@ Here, sample images are provided that showcase different hand positions (LF, LB,
     </tr>
   </table>
 </div>
+
+## Usage
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/jose-valero-sanchis/hand-recognition.git
+    cd hand-recognition
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Train the model and make predictions:
+
+    ```bash
+    python main.py <training_directory> <testing_directory>
+    ```
