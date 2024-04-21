@@ -44,6 +44,6 @@ Here, sample images are provided that showcase different hand positions (LB, LF,
 
 ## Implementation Details
 
-- Feature Extraction: Image features are extracted using the pre-trained VGG16 network.
-- Model Training: A dense neural network model is trained using the extracted features and labels from the training images.
-- Testing Image Classification: Extracted features from testing images are used to make predictions.
+- **Feature Extraction**: Image features are extracted using the pre-trained [VGG16](https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG16) network.
+- **Model Training**: A dense neural network model is trained using the extracted features and labels from the training images.
+- **Testing Image Classification**: Extracted features from testing images are used to make predictions.
