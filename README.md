@@ -11,4 +11,6 @@ Here, sample images are provided that showcase different hand positions (LF, LB,
 |         |         |
 |:-------:|:-------:|
 | ![LB](examples/0147.jpeg) | ![Imagen 2](ruta/a/la/imagen2.png) |
+| *LB* | *Caption 2* |
 | ![Imagen 3](ruta/a/la/imagen3.png) | ![Imagen 4](ruta/a/la/imagen4.png) |
+| *Caption 3* | *Caption 4* |
