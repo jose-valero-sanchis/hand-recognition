@@ -8,9 +8,15 @@ The project consists of a hand position classification system in images. The cla
 
 Here, sample images are provided that showcase different hand positions (LF, LB, RF, RB) and have been utilized to train the model:
 
-|         |         |
-|:-------:|:-------:|
-| ![LB](examples/0147.jpeg) | ![LF](examples/0148.jpeg) |
-| *LB* | *LF* |
-| ![RB](examples/0149.jpeg) | ![RF](examples/0150.jpeg) |
-| *RB* | *RF* |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="examples/0147.jpeg" alt="LB"><br><em>LB</em></td>
+      <td align="center"><img src="examples/0148.jpeg" alt="LF"><br><em>LF</em></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="examples/0149.jpeg" alt="RB"><br><em>RB</em></td>
+      <td align="center"><img src="examples/0150.jpeg" alt="RF"><br><em>RF</em></td>
+    </tr>
+  </table>
+</p>
