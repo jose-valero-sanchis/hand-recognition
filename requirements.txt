@@ -1,4 +1,5 @@
-TensorFlow
-scikit-learn
-Pillow
+numpy
 tabnanny
+PIL
+scikit-learn
+tensorflow
